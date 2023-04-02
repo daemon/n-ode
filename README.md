@@ -1,6 +1,6 @@
 # NeurDE
 
-NeurDE (nɜrd) is a teaching library with Jupyter notebooks for understanding some of the neural differential equations literature, namely
+NeurDE (pronounced nɜrd) is a teaching library with Jupyter notebooks for understanding some of the neural differential equations literature, namely
 
 1. [Neural Ordinary Differential Equations (2018)](https://arxiv.org/abs/1806.07366)
 2. [Infinitely Deep Bayesian Neural Networks with SDEs (2021)](https://arxiv.org/abs/2102.06559)
